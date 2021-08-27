@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @omarfadlalla
+- 👋 Hi, I’m @OmerAlfahal
 - 👀 I’m interested in Technical Documentation, Cyber Security, Knowledge Sharing, Digital Transformation, Data Governance & Data Stewardship
 - 🌱 I’m currently learning Kanban
 - 💞️ I’m looking to collaborate on 
